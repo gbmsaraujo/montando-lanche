@@ -6,6 +6,5 @@ Projeto feito no curso de Vue 3 da udemy para simular um pedido de lanche.
 ```
 - Vue.js
 - Bootstrap
-
 ```
 > Para Rodar o projeto, verifique se tem o node e live server instalado.
